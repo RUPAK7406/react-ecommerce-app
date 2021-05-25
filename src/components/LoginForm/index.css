@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.login-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 100vh;
+  max-width: 1110px;
+  margin: auto;
+}
+
+.logo-website-mobile {
+  width: 165px;
+  margin-top: 50px;
+  margin-bottom: 35px;
+}
+
+.login-image {
+  width: 278px;
+}
+
+.form-container {
+}
